@@ -1,13 +1,13 @@
 <h1 align="center">🛡️ Abderrahmane Nassif</h1>
 <p align="center">
-  <strong>Systems Security Architect | Cybersecurity Engineering Student @ EMSI</strong><br>
+  <strong>Systems Security Architect | Cybersecurity Engineering Student</strong><br>
   <em>Optimizing for utility. Hardening for resilience. Analyzing for systemic flaws.</em>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lordabden&label=Profile%20views&color=0e75b6&style=flat-square" alt="lordabden" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Systems-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Persona-INTJ--A-blue?style=flat-square" />
+ 
 </p>
 
 ---
